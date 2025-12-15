@@ -420,10 +420,10 @@ if st.button("🚀 Extraer y Validar", type="primary"):
             
             # Iconos por categoría
             icon_map = {
-                "válido": "✅",
-                "inválido": "❌",
-                "sospechoso": "⚠️",
-                "desconocido": "❓"
+                "válido": "✅ Válido",
+                "inválido": "❌ Inválido",
+                "sospechoso": "⚠️ Sospechoso",
+                "desconocido": "❓ Desconocido"
             }
 
             rows.append(
