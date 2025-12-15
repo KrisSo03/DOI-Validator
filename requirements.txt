@@ -1,0 +1,7 @@
+streamlit
+pdfplumber
+requests
+pandas
+plotly
+urllib3
+PyPDF2
